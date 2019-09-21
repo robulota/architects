@@ -70,7 +70,7 @@
   align-items: center;
   height: 80vh;
   width: 100%;
-  background: url(/img/architect.jpg) center/cover;
+  background: url(./img/architect.jpg) center/cover;
   margin: auto;
   margin-bottom: 90px;
 }
