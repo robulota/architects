@@ -81,6 +81,10 @@
 }
 
 /* Projects */
+.houses .houses-items img:hover {
+  cursor: pointer;
+}
+
 .housep {
   display: inline-block;
   background: #333;
