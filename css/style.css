@@ -207,7 +207,7 @@
   width: 90%;
   margin: auto;
   height: 800px;
-  background: url(../img/map.jpg);
+  background: url(../img/map.jpg) center/cover;
   margin-bottom: 30px;
 }
 
