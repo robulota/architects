@@ -70,7 +70,7 @@
   align-items: center;
   height: 80vh;
   width: 100%;
-  background: url(./img/architect.JPG) center/cover;
+  background: url(/img/architect.jpg) center/cover;
   margin: auto;
   margin-bottom: 90px;
 }
@@ -207,7 +207,7 @@
   width: 90%;
   margin: auto;
   height: 800px;
-  background: url(./img/map.JPG);
+  background: url(/img/map.JPG);
   margin-bottom:30px;
 }
 
