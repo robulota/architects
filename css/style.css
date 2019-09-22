@@ -140,8 +140,9 @@
 .about-container {
   display: flex;
   flex-flow: row nowrap;
-  width: 95%;
+  width: 94%;
   margin: auto;
+  overflow: hidden;
 }
 
 .about-items img {
@@ -212,7 +213,7 @@
 }
 
 .footer {
-  height: 50px;
+  height: 15px;
   width: 100%;
   background:black;
 }
